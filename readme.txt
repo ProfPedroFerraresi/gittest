@@ -1,0 +1,1 @@
+Arquivo inicial do Git! Essa é a primeira linha do arquivo.
