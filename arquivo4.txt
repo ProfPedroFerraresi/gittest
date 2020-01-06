@@ -1,3 +1,4 @@
 Primeira linha do arquivo 4!
-Segunda linha do arquivo 4!
+Nova Segunda linha do arquivo 4!
 Terceira linha do arquivo 4!
+Quarta linha do arquivo 4!
