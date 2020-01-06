@@ -1,5 +1,5 @@
 Primeira linha do arquivo 2! (Ajuste na linha 1)
 Segunda linha do arquivo 2!
-Terceira linha do arquivo 2!
+Nova Terceira linha do arquivo 2!
 Nova Quarta linha do arquivo 2!
 Quinta linha do arquivo 2!
